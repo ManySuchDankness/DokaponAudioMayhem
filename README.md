@@ -1082,28 +1082,28 @@ se331 slot 1/3 fill-in w/
 se332 slot hits $ w/
 SE333 Slots "Too Bad"   w/  Mount FLAPPY McFLUNKen!
 334-338 long bg noises of shit idgaf
-339 chirp [like final sound of being wanted]
-340 SPAP! [2nd to final sound of being wanted?]
-SE341 [rico jr?] thwips cape sfx [b4 leaving]dr exiles?
+339 chirp final sound of being wanted
+340 SPAP! wanted sign posted of being wante
+SE341 Rico Jr thwips cape b4 leaing like dr exiles
 SE342 Dr. Exiles heals u  W/ THERE lil frend, gud as new
 se343 Goddess Generous Appearing [or Angelo bribe revive] w/
 se344 Goddess curses you >:) w/
 SE345 mitchdiggerdrilling w/ DIGGY DIGGY HOLE
 xx346 Waterfall for 30 seconds xxx :/
-347 rico jr leaving?
+347 rico jr leaving
 348 npc[weber?] leaves before giving item?
-se353 maybe this is the hit by trap?
+se353 hit by trap W/
 se354 shrdrdrdr + ehrrreeeee
 se355 long loud audience cheer[game ends]
 se356 weird Banshee grunt, fuk idk
 se358 squeaking wheelchair
-359 robosassin strike? 
+359 robosassin strike
 SE360 Transform to DARKLING w/  Toadstool Titan slowed 
 SE361 Transform FROM DARKLING w/ " " shrink slowed
 SE362 darkvampirebatappears w/  OH hgkhgk, NOnonoNO :>
-se363 Rico SR appearing??? w/
+se363 Rico SR appearing w/
 SE364 king fixes bathroom? w/ SKibidibapba doodah BOOM
-se365 some doopery then transform sound [R Sr leaves?]
+se365 doopery then transform sound then Rico Sr leaves
 se366 Guardian Demon appears? w/
 SE367 whole Lair is destroyed? w/ SKibidibapba doodah BOOM
 SE368 Lair takes last boom? w/ SKibidibapba doodah BOOM
