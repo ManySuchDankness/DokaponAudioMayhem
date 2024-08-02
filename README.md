@@ -1,6 +1,12 @@
 # DokaponAudioMayhem
 Replaces All Music, Voicelines, and Sound Effects of Dokapon Kingdom Wii
 
+You Might Need to Get WII Backup Fusion to extract your Dokapon Kingdom ISO/WBFS 
+Then Go to your DOKapon Kingdom(R2DEEB) -> DATA -> files -> sound
+This is where you can replace individual sounds
+To customize your own, get the Audacity Cross-PLatform Edition and EXPORT audio (Ctrl Shift E) and match the filename exactly.
+
+
 M0 doka mainmenu   w/   Smash Crusade Melee menu
 m1'intromovie' vanilla. [rooftop rumble wud b gud tho]
 M2 character creator    w/   DOUBLE DARE
